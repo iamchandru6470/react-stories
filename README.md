@@ -4,6 +4,11 @@ A simple react app for building stories/status features similar to Whatsapp and 
 
 Built with only React and no external dependency used.
 
+<div>
+  <img src="./docs/stories.png" width="300px" height="500px"/>
+  <img src="./docs/stories-end.png" width="300px" height="500px"/>
+</div>
+
 ## Setup
 
 ```bash
